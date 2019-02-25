@@ -1,0 +1,13 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"C:\Users\Boost\Desktop\LED Flashing 4 Mode\code.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Boost\Desktop\LED Flashing 4 Mode\" "code.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_EEPROM.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1138	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	code.c
+diagnostics: 65	123	Compiled Successfully	code.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1143	Used RAM (bytes): 3 (6%)  Free RAM (bytes): 49 (94%)	Used RAM (bytes): 3 (6%)  Free RAM (bytes): 49 (94%)
+hint: 0	1143	Used ROM (program words): 197 (19%)  Free ROM (program words): 827 (81%)	Used ROM (program words): 197 (19%)  Free ROM (program words): 827 (81%)
+diagnostics: 0	125	Project Linked Successfully	code.mcppi
+diagnostics: 0	128	Linked in 249 ms	 
+diagnostics: 0	129	Project 'code.mcppi' completed: 608 ms	 
+diagnostics: 0	103	Finished successfully: 07 Oct 2013, 22:51:05	code.mcppi

@@ -1,0 +1,15 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"C:\Users\Elearning.DESKTOP-5K0VQ9G\Desktop\7 segment2 use 7447 driver count up and down\CounterCode.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Elearning.DESKTOP-5K0VQ9G\Desktop\7 segment2 use 7447 driver count up and down\" "CounterCode.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_EEPROM.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	P16F84A.c
+diagnostics: 175	123	Compiled Successfully	P16F84A.c
+diagnostics: 0	126	All files Preprocessed in 79 ms	 
+diagnostics: 0	122	Compilation Started	CounterCode.c
+diagnostics: 34	123	Compiled Successfully	CounterCode.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 8 (15%)  Free RAM (bytes): 44 (85%)	Used RAM (bytes): 8 (15%)  Free RAM (bytes): 44 (85%)
+hint: 0	1144	Used ROM (program words): 150 (15%)  Free ROM (program words): 874 (85%)	Used ROM (program words): 150 (15%)  Free ROM (program words): 874 (85%)
+diagnostics: 0	125	Project Linked Successfully	CounterCode.mcppi
+diagnostics: 0	128	Linked in 406 ms	 
+diagnostics: 0	129	Project 'CounterCode.mcppi' completed: 906 ms	 
+diagnostics: 0	103	Finished successfully: 25 Feb 2019, 10:47:19	CounterCode.mcppi

@@ -1,0 +1,68 @@
+[DEVICE]
+Name=P16F84A
+Clock=4000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=code.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=1
+File0=code.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+[OPENED_FILES]
+Count=1
+File0=code.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\
+Path1=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\
+Path2=C:\Users\Boost\Desktop\LED Flashing 4 Mode\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=21
+File0=Button
+File1=Conversions
+File2=C_Math
+File3=C_Stdlib
+File4=C_String
+File5=C_Type
+File6=EEPROM
+File7=Keypad4x4
+File8=Lcd
+File9=Lcd_Constants
+File10=Manchester
+File11=One_Wire
+File12=PS2
+File13=Software_I2C
+File14=Software_SPI
+File15=Software_UART
+File16=Sound
+File17=Sprinti
+File18=Sprintl
+File19=Time
+File20=Trigonometry
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Node3=Output Files
+Count=3
