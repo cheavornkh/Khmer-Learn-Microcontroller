@@ -1,0 +1,35 @@
+[DeviceName]
+Value=P16F84A
+[DeviceClock]
+Value=4
+[MainUnit]
+Value=test.c
+[DeviceFlags]
+Count=2
+Value0=_WDT_OFF = $3FFB
+Value1=_HS_OSC = $3FFE
+Value2=_HS_OSC = $3FEE
+[BuildType]
+bType=0
+[ProjectFiles]
+Count=1
+Value0=test.c
+[HeaderFiles]
+Count=0
+[ObjLibFiles]
+Count=0
+[PLDFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[SearchPath]
+Count=7
+Value0=C:\Program Files (x86)\Mikroelektronika\mikroC\Defs\
+Value1=C:\Program Files (x86)\Mikroelektronika\mikroC\Uses\p16\
+Value2=C:\Users\CHEAVORN\Desktop\stop XR\
+Value3=D:\My Work\Complete Project\stop XR\
+Value4=C:\Program Files\Mikroelektronika\mikroC\Defs\
+Value5=C:\Program Files\Mikroelektronika\mikroC\Uses\p16\
+Value6=C:\Users\CHEAVORN\Desktop\test\
+[IncludePath]
+Count=0

@@ -1,0 +1,3 @@
+main
+	GlobalIni7segment
+	disp

@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"C:\Users\Boost\Desktop\ET Code\Random number -stop - 2\EX1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Boost\Desktop\ET Code\Random number -stop - 2\" -SP"C:\Users\Boost\Desktop\ET Code\Random number -stop\" -SP"C:\Users\Boost\Desktop\ET Code\Random number\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"\\psf\Home\Desktop\ET 2\" -SP"\\psf\Home\Desktop\ET 1\" "EX1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_EEPROM.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_S1D13700.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16'	 
+warning: 0	1501	Specified search path does not exist: '\\psf\Home\Desktop\ET 2'	 
+warning: 0	1501	Specified search path does not exist: '\\psf\Home\Desktop\ET 1'	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	EX1.c
+hint: 2	1163	Variable 'k' has been declared, but not used	EX1.c
+diagnostics: 50	123	Compiled Successfully	EX1.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 34 (65%)  Free RAM (bytes): 18 (35%)	Used RAM (bytes): 34 (65%)  Free RAM (bytes): 18 (35%)
+hint: 0	1144	Used ROM (program words): 508 (50%)  Free ROM (program words): 516 (50%)	Used ROM (program words): 508 (50%)  Free ROM (program words): 516 (50%)
+diagnostics: 0	125	Project Linked Successfully	EX1.mcppi
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'EX1.mcppi' completed: 249 ms	 
+diagnostics: 0	103	Finished successfully: 19 Jul 2013, 09:11:39	EX1.mcppi
