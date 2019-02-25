@@ -1,0 +1,6 @@
+main
+	__CC2DW
+		____DoICP
+	rand
+		srand
+		Mul_32x32_U
